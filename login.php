@@ -1,6 +1,24 @@
 <title>Class Scheduling | Login</title>
 <?php include 'navbar.php'; ?>
-
+<style>
+  .content {
+    background-image: url('images/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    position: relative;
+  }
+  .content::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the last value (0.5) for opacity */
+  }
+</style>
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
     
@@ -24,9 +42,9 @@
 
           <div class="col-lg-4 mt-5">
             <div class="card card-outline card-primary">
-              <div class="card-header text-center">
-                <a href="#" class="h1"><b>Login</b></a>
-              </div>
+              <a href="login.php" class="h1">
+                <img src="images/logo4.png" alt="logo" class="shadow-sm img-circle d-block m-auto" width="150">
+              </a>
               <div class="card-body">
                 <p class="login-box-msg">Sign in to start your session</p>
                 <form action="processes.php" method="post" id="quickForm">
@@ -106,9 +124,9 @@
 
           <div class="col-lg-4 mt-5">
             <div class="card card-outline card-primary">
-              <div class="card-header text-center">
-                <a href="#" class="h1"><b>Login</b></a>
-              </div>
+              <a href="login.php" class="h1">
+                <img src="images/logo4.png" alt="logo" class="shadow-sm img-circle d-block m-auto" width="150">
+              </a>
               <div class="card-body">
                 <p class="login-box-msg">Sign in to start your session</p>
                 <form action="processes.php" method="post" id="quickForm">

@@ -11,7 +11,7 @@
       Version 3.2.2
     </div>
     <!-- Default to the left -->
-    <strong>Copyright &copy; 2022 <a href="https://adminlte.io">Class Scheduling</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2023 <a href="https://adminlte.io">Class Scheduling</a>.</strong> All rights reserved.
   </footer>
 </div>
 <!-- ./wrapper -->

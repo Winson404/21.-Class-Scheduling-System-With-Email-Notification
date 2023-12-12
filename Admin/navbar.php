@@ -11,7 +11,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Class Scheduling | Dashboard</title>
   <!---FAVICON ICON FOR WEBSITE--->
-  <link rel="shortcut icon" type="image/png" href="../images/logo1.png">
+  <link rel="shortcut icon" type="image/png" href="../images/logo4.png">
   <!-- Select2 -->
   <link rel="stylesheet" href="../plugins/select2/css/select2.min.css">
   <!-- Google Font: Source Sans Pro -->
@@ -133,7 +133,7 @@
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="dashboard.php" class="brand-link">
-      <img src="../images/logo1.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3">
+      <img src="../images/logo4.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3">
       <span class="brand-text font-weight-light ml-1">Class Scheduling</span>
       <br>
       <span class="brand-text text-sm ml-5 font-weight-light">&nbsp;&nbsp;&nbsp;Mandaue City College</span>
